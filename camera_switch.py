@@ -1,5 +1,6 @@
 bl_info = {
     "name": "Camera Switcher",
+    "author": "Jakub Jaszewski",
     "description": "Switch between cameras in a scene with Shift+Num 0",
     "version": (1, 0),
     "blender": (3, 5, 0),
