@@ -1,9 +1,9 @@
 bl_info = {
     "name": "Camera Switcher",
-    "author": "Jakub Jaszewski",
     "description": "Switch between cameras in a scene with Shift+Num 0",
-    "version": (1, 0),
-    "blender": (3, 5, 0),
+    "author": "Jakub Jaszewski",
+    "version": (2, 0),
+    "blender": (4, 2, 0),
     "location": "3D Viewport",
     "category": "3D View"
 }
